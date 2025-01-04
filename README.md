@@ -29,13 +29,13 @@ To get started with this project, you have two options:
    - Use the following link to clone the repository to your local machine:
     
      ```
-     git clone https://github.com/Jomonh/Todo-App.git
+     git clone https://github.com/Jomon-J/bio-generator.git
      ```
      
    - Once cloned, navigate to the project directory:
      
      ```
-     cd Todo-App
+     cd bio-generator
      ```
 
 ### 2. Fork the Repository
