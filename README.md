@@ -1,12 +1,12 @@
 ## Ai Social Media Bio Generator
 
-   <img src="https://github.com/Jomonh/bio-generator/blob/master/Preview.png?raw=true" alt="Project Screenshot" width="500"/>
+![Preview (4)](https://github.com/user-attachments/assets/f1e8b08c-c142-43a5-a5c0-6c19bd341d62)
 
 ###  Demo Site
-   - Check out the live demo of this project: [Demo Site](https://bio-generator-jomon.vercel.app)
+   - Check out the live demo of this project: [Demo Site](https://bio-generator.jomon.dev)
    
 ### Video Demo
-Check out the [video demo](https://www.linkedin.com/posts/jomonh_ai-socialmedia-webdevelopment-activity-7229086819584204800-PsxH?utm_source=share&utm_medium=member_desktop) to see the app in action and learn how it works.
+Check out the [video demo](https://www.linkedin.com/posts/jomonj_ai-socialmedia-webdevelopment-activity-7229086819584204800-LgTo?utm_source=share&utm_medium=member_desktop) to see the app in action and learn how it works.
 
 ## Resources Used in This Project
 
