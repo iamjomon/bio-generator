@@ -1,12 +1,8 @@
-## Ai Social Media Bio Generator
+## Social Media Bio Generator
 
-![Preview (4)](https://github.com/user-attachments/assets/f1e8b08c-c142-43a5-a5c0-6c19bd341d62)
+<img src ="https://github.com/user-attachments/assets/f1e8b08c-c142-43a5-a5c0-6c19bd341d62" width="500">
 
-###  Demo Site
-   - Check out the live demo of this project: [Demo Site](https://bio-generator.jomon.dev)
-   
-### Video Demo
-Check out the [video demo](https://www.linkedin.com/posts/jomonj_ai-socialmedia-webdevelopment-activity-7229086819584204800-LgTo?utm_source=share&utm_medium=member_desktop) to see the app in action and learn how it works.
+***The deployed version is avilable [here.](https://bio-generator-jomon.vercel.app/)***
 
 ## Resources Used in This Project
 
@@ -21,44 +17,37 @@ Check out the [video demo](https://www.linkedin.com/posts/jomonj_ai-socialmedia-
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [create-next-app](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started  
 
-To get started with this project, you have two options:
+### Clone the Repository  
+Run the following commands to clone and navigate into the project:
 
-### 1. Clone the Repository
-   - Use the following link to clone the repository to your local machine:
-    
-     ```
-     git clone https://github.com/Jomon-J/bio-generator.git
-     ```
-     
-   - Once cloned, navigate to the project directory:
-     
-     ```
-     cd bio-generator
-     ```
+```bash  
+git clone https://github.com/jomon-j/bio-generator.git
+```
+```bash
+cd bio-generator
+```
 
-### 2. Fork the Repository
-   - If you prefer, you can directly fork this repository.
-   - Click the Fork button at the top-right of this page.
-   - After forking, clone the repository from your account:
+<p align ="center">-or-</p>
 
-     ```
-     git clone https://github.com/your-username/your-forked-repository.git
-     ```
+### Fork the Repository  
+1. Fork this repository on GitHub.  
+2. Clone your fork.
+
+```bash  
+git clone https://github.com/your-username/your-forked-repository-name.git
+```
+```bash
+cd your-forked-repository-name    
+```
 
 ### Note:
-Create a .env.local file in your root of the project and add your own api key, which you can find [here](https://console.groq.com/keys)
+> Create a .env.local file in your root of the project and add your own api key, which you can find here [https://console.groq.com/keys](https://console.groq.com/keys)
 
 Then, run the development server:
 
-    npm run dev
-    # or
-    yarn dev
-    # or
-    pnpm dev
-    # or
-    bun dev
+`npm run dev` or `yarn dev` or `pnpm dev` or `bun dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -81,8 +70,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-### 🌟 Don’t Forget to Star!
-   - If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
-
-###  License
-   - This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/MIT) file for details.
+## 🌟 Don’t Forget to Star!
+If you find this project useful, please consider giving it a star ⭐. It helps others discover it too!
